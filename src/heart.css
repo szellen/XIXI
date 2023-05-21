@@ -1,0 +1,166 @@
+.heart-container {
+    top:40%;
+    position: absolute;
+    text-align: center;
+  }
+  
+  .heart-container.xl {
+    position: absolute; 
+    top: 20%;
+  }
+  
+  .heart-container.xxl {
+    height:100%;
+    width:100%;
+    top:0;
+  }
+  
+  
+  .heart {
+    background-color: red;
+    transform: rotate(-45deg);
+    
+  }
+  
+  .heart:before,
+  .heart:after {
+    content: "";
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+  }
+  
+  .heart:before {
+    left: 0;
+    top:-100px
+  }
+  
+  .heart:after {
+    top: 0;
+    left:100px;
+  }
+  
+  /* xss */
+  .heart.xxs {
+    width:20px;
+    height:20px;
+  }
+  
+  .heart.xxs:before,
+  .heart.xxs:after {
+    width:20px;
+    height:20px;
+  }
+  
+  .heart.xxs:before{
+    top:-10px
+  }
+  .heart.xxs:after{
+    left:10px;
+  }
+  
+  /* xs */
+  .heart.xs {
+    width:40px;
+    height:40px;
+  }
+  
+  .heart.xs:before,
+  .heart.xs:after {
+    width:40px;
+    height:40px;
+  }
+  
+  .heart.xs:before{
+    top:-20px
+  }
+  .heart.xs:after{
+    left:20px;
+  }
+  
+  /* s */
+  .heart.s {
+    width:80px;
+    height:80px;
+  }
+  
+  .heart.s:before,
+  .heart.s:after {
+    width:80px;
+    height:80px;
+  }
+  
+  .heart.s:before{
+    top:-40px
+  }
+  .heart.s:after{
+    left:40px;
+  }
+  
+  
+  
+  /* m */
+  .heart.m {
+    width:200px;
+    height:200px;
+  }
+  
+  .heart.m:before,
+  .heart.m:after {
+    width:200px;
+    height:200px;
+  }
+  
+  .heart.m:before{
+    top:-100px
+  }
+  .heart.m:after{
+    left:100px;
+  }
+  
+  /* l */
+  .heart.l {
+    width:400px;
+    height:400px;
+  }
+  
+  .heart.l:before,
+  .heart.l:after {
+    width:400px;
+    height:400px;
+  }
+  
+  .heart.l:before{
+    top:-200px
+  }
+  .heart.l:after{
+    left:200px;
+  }
+  
+  /* xl */
+  .heart.xl {
+    width:600px;
+    height:600px;
+  
+  }
+  
+  .heart.xl:before,
+  .heart.xl:after {
+    width:600px;
+    height:600px;
+  }
+  
+  .heart.xl:before{
+    top:-300px
+  }
+  .heart.xl:after{
+    left:300px;
+  }
+  
+  /* xxl */
+  .heart.xxl {
+    width:100%;
+    height:100%;
+    transform: none;
+  }
+  
