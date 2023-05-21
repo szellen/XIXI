@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/XIXI/static/css/main.6860a974.css",
+    "main.js": "/XIXI/static/js/main.ee1d6865.js",
+    "static/js/787.28cb0dcd.chunk.js": "/XIXI/static/js/787.28cb0dcd.chunk.js",
+    "static/media/9.jpg": "/XIXI/static/media/9.b318564c5d9aea0fca09.jpg",
+    "static/media/6.jpg": "/XIXI/static/media/6.cf55b5d34c3d46d4769e.jpg",
+    "static/media/10.jpg": "/XIXI/static/media/10.8d2ca56e4ff3c26b0eb8.jpg",
+    "static/media/3.jpg": "/XIXI/static/media/3.e5438e6a235358fcd1fe.jpg",
+    "static/media/13.jpg": "/XIXI/static/media/13.ea2beaa8ffe0c760615c.jpg",
+    "static/media/20.jpg": "/XIXI/static/media/20.3f3b17d152637b4b61cd.jpg",
+    "static/media/19.jpg": "/XIXI/static/media/19.f2b4543eeb9031c0afa6.jpg",
+    "static/media/24.jpg": "/XIXI/static/media/24.e7ac687015df81d438df.jpg",
+    "static/media/14.jpg": "/XIXI/static/media/14.50d8b482687e16dcc25e.jpg",
+    "static/media/8.jpg": "/XIXI/static/media/8.806c940d4fd2ddb0cdd7.jpg",
+    "static/media/22.jpg": "/XIXI/static/media/22.5201ee7d3cec0d8ac40f.jpg",
+    "static/media/17.jpg": "/XIXI/static/media/17.084e691d5fa890f18411.jpg",
+    "static/media/2.jpg": "/XIXI/static/media/2.a4b38e805e1cd8e3fb52.jpg",
+    "static/media/12.jpg": "/XIXI/static/media/12.4af1590f626f96628498.jpg",
+    "static/media/7.jpg": "/XIXI/static/media/7.527fede277b2944eef6d.jpg",
+    "static/media/11.jpg": "/XIXI/static/media/11.0dd1c03bf33147eccf71.jpg",
+    "static/media/21.jpg": "/XIXI/static/media/21.45ed738f575b18da8094.jpg",
+    "static/media/23.jpg": "/XIXI/static/media/23.d05fe5ea8176cc513594.jpg",
+    "static/media/18.jpg": "/XIXI/static/media/18.0fc43d64aea845d8896e.jpg",
+    "static/media/15.jpg": "/XIXI/static/media/15.4b9094e96e76ab9681c5.jpg",
+    "static/media/1.jpg": "/XIXI/static/media/1.9f6dfc17c8b866b80bf6.jpg",
+    "static/media/4.jpg": "/XIXI/static/media/4.c3417cd90f56c18356f0.jpg",
+    "static/media/5.jpg": "/XIXI/static/media/5.6a4520faa6416602b89f.jpg",
+    "static/media/logo.svg": "/XIXI/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/XIXI/index.html",
+    "main.6860a974.css.map": "/XIXI/static/css/main.6860a974.css.map",
+    "main.ee1d6865.js.map": "/XIXI/static/js/main.ee1d6865.js.map",
+    "787.28cb0dcd.chunk.js.map": "/XIXI/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6860a974.css",
+    "static/js/main.ee1d6865.js"
+  ]
+}
